@@ -34,7 +34,7 @@ I'm a **Frontend Developer** passionate about transforming innovative concepts i
         <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation"/>
         <br><br>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=MinhLuong30&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" width="100%"/>
         </div>
       </td>
     </tr>
@@ -100,23 +100,23 @@ I'm a **Frontend Developer** passionate about transforming innovative concepts i
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15&custom_title=GitHub%20Stats%20📈">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15&custom_title=GitHub%20Stats%20📈" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MinhLuong30&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15&custom_title=GitHub%20Stats%20📈">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MinhLuong30&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15&custom_title=GitHub%20Stats%20📈" alt="GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phglamm&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&text_color=FFFFFF&border_radius=15&langs_count=10">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phglamm&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&text_color=FFFFFF&border_radius=15&langs_count=10" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhLuong30&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&text_color=FFFFFF&border_radius=15&langs_count=10">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhLuong30&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&text_color=FFFFFF&border_radius=15&langs_count=10" alt="Top Languages"/>
   </picture>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phglamm&theme=radical&hide_border=true&background=1a1a2e&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF&border_radius=15" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhLuong30&theme=radical&hide_border=true&background=1a1a2e&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF&border_radius=15" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phglamm&theme=react-dark&bg_color=1a1a2e&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity%20📊" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhLuong30&theme=react-dark&bg_color=1a1a2e&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity%20📊" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
@@ -129,7 +129,7 @@ I'm a **Frontend Developer** passionate about transforming innovative concepts i
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🚀_EXPLORE_PORTFOLIO-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/phglamm)
+  [![Portfolio](https://img.shields.io/badge/🚀_EXPLORE_PORTFOLIO-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/MinhLuong30)
   [![Resume](https://img.shields.io/badge/📄_VIEW_RESUME-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=1a1a2e)](#)
   
 </div>
@@ -183,7 +183,7 @@ I'm a **Frontend Developer** passionate about transforming innovative concepts i
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/phglamm">
+        <a href="https://github.com/MinhLuong30">
           <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
         </a>
       </td>
