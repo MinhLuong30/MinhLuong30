@@ -26,7 +26,7 @@ I'm a **Frontend Developer** passionate about transforming innovative concepts i
 
 <div align="center">
   <img src="https://img.shields.io/badge/📍_Ho_Chi_Minh_City,_Vietnam-FF6B6B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/💌_lamphong1507@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💌_minh.luong.heo@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/⏱️_Response_Time:_24h-00C853?style=flat-square&logoColor=white"/>
 </div>
       </td>
@@ -173,12 +173,12 @@ I'm a **Frontend Developer** passionate about transforming innovative concepts i
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:lamphong1507@gmail.com">
-          <img src="https://img.shields.io/badge/Email-lamphong1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
+        <a href="mailto:minh.luong.heo@gmail.com">
+          <img src="https://img.shields.io/badge/Email-minh.luong.heo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.facebook.com/phonglam1507">
+        <a href="https://www.facebook.com/minh.luong.662827">
           <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook"/>
         </a>
       </td>
